@@ -1,0 +1,35 @@
+Is the game to easy or hard? Give 3 unique reasons why it is easy or hard?
+Reasons due to which game is looking easy:
+
+1.The Game is really easy because the patterns are predictable.
+2.The game maintains a balance between speed reduction and time gain, offering enough opportunities to compensate for lost time due to speed reduction, it can become manageable.
+3.The controls are very comfortable players navigate challenges are very easy.
+
+What 3 changes would you do to make it easier or harder?
+Changes to make the game harder:
+
+1.Gradually increasing the object speed to make the game harder.
+2.Unpredictable object placements.
+3.Limit the time gain objects, should be less time gaining objects as compared to speed reducing obstacles.
+
+
+List three things that would give it a "wow" factor.
+
+
+1.Dynamic Environment changes.
+2.Engaging Power ups.
+3.A visually impressive and challenging boss battle amid the running could add an exhilarating dimension to the game.
+
+What parts of the game are fun? 3 items
+
+1.The thrill of navigating through dynamically changing challenges keeps the game engaging. 
+2.The element of strategy adds depth to the game. Deciding whether to prioritize avoiding speed reduction or aiming for time gains requires quick thinking and decision-making, adding a layer of complexity that keeps players invested and engaged.
+3.The gradual increase in difficulty over time keeps the game interesting and compelling
+
+
+What parts of the game are tedious? 3 items
+1.Repetitive patterns in the gameplay
+2.Unbalanced difficulty spikes coming making the game frustrating
+3.Limited variety of obstacles in the gameplay
+
+
